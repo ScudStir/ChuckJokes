@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chuck Norris jokes</string>
+
+    <!--jokes menu start-->
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <!--jokes menu end-->
+
+    <!--jokes screen start-->
+    <string name="count">Count</string>
+    <string name="reload">RELOAD</string>
+    <!--jokes screen end-->
+</resources>
